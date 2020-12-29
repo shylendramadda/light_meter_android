@@ -1,6 +1,8 @@
 # light_meter_android
 Android App to measure light in a room which is refered from here: https://github.com/wansoul/LightMeter
 
+Which supports 30.0.2 API version i.e., android 11
+
 # LightMeter
 
 This Android app is intended to help interior designers to measure the luminance of rooms, in order to analyse which areas need more light or to know if the light is adequate to tasks executed in these rooms.
